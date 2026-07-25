@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Riyansh%20Sarkar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Web3%20Explorer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
-</p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Full+Stack+Engineer+%F0%9F%9A%80;Web3+%26+Blockchain+Explorer+%E2%9B%93;Building+Scalable+Cloud-Native+Systems+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Production+Products+%F0%9F%9B%A0%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
-  </a>
-</p>
-
-<br/>
 
 
 ## 🧬 About Me
