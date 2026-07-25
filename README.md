@@ -74,55 +74,6 @@ I thrive at the intersection of <strong>infrastructure, product, and craft</stro
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riyansh-Sarkar&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A78BFA&icon_color=6D28D9&text_color=C4B5FD&include_all_commits=true&count_private=true&border_radius=10&hide_border=false" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyansh-Sarkar&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A78BFA&text_color=C4B5FD&langs_count=8&border_radius=10&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyansh-Sarkar&theme=tokyonight&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&sideNums=A78BFA&currStreakNum=A78BFA&border=7C3AED&stroke=7C3AED&dates=8B5CF6&border_radius=10" width="60%" />
-</p>
-
-<br/>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Riyansh-Sarkar&theme=darkhub&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" />
-</p>
-
-<br/>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyansh-Sarkar&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4F46E5&hide_border=false&border_color=7C3AED&radius=6&custom_title=Smriti%27s%20Contribution%20Activity" width="100%" />
-</p>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riyansh-Sarkar/Riyansh-Sarkaroutput/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riyansh-SarkarRiyansh-Sarkaroutput/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Riyansh-SarkarRiyansh-Sarkaroutput/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</p>
-
-<br/>
-
----
 
 
 ## 🤝 Connect
