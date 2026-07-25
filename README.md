@@ -1,109 +1,36 @@
+# hey, i'm Riyansh 👋
 
 
+**Full-stack developer** building at the intersection of **AI, Web3, and product engineering**.
+I like building fast, solving real problems, and shipping products people actually use.
 
-## 🧬 About Me
-
-<p align="left">
-I'm a <strong> Full Stack Engineer</strong> with over one years of experience designing and delivering production-grade systems across fintech, SaaS, and e-commerce verticals. My engineering philosophy is rooted in writing clean, scalable, and maintainable code — from pixel-perfect frontend interfaces to highly available backend microservices.
-
-Currently, I am deepening my expertise in <strong>Web3 and Blockchain engineering</strong> — exploring smart contract development with Solidity, DeFi protocol architecture, and decentralized application (dApp) design patterns. I bring a product-first mindset to every project: shipping fast, iterating with data, and building with end users at the center.
-
-I thrive at the intersection of <strong>infrastructure, product, and craft</strong> — comfortable owning the full lifecycle from architecture to deployment pipelines to post-launch observability.
-</p>
-
-### 🔭 Open To
-
-- Senior / Staff Full Stack Engineering roles
-- Web3 / Blockchain Engineer positions
-- Technical co-founder conversations
-- Open source collaboration
-- Developer advocacy & technical writing opportunities
-
-<br/>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <strong>Languages</strong>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,solidity,rust,go,java,bash&perline=8&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Frontend</strong>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,graphql,html,css&perline=8&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Backend & Databases</strong>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postgresql,mongodb,redis,prisma&perline=8&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Cloud, DevOps & Tooling</strong>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,githubactions,terraform,nginx,linux&perline=8&theme=dark" />
-  </a>
-</p>
+Currently focused on:
+- Real-time AI systems
+- d-applications & on-chain tooling
+- Full-stack product engineering
 
 <br/>
 
 ---
 
 
-<br/>
+### ⚙️ Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-E6002C?style=for-the-badge)
+![Vapi](https://img.shields.io/badge/Vapi-black?style=for-the-badge)
+![Solana](https://img.shields.io/badge/Solana-7843f3?style=for-the-badge&logo=solana&logoColor=white)
+
 
 ---
 
+> Build fast. Learn aggressively. Ship real things.
 
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="mailto:#">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/riyansh-sarkar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Riyansh-Sarkar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://riyansh.dev">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
----
-
-<p align="center">
-  <i>"The best code is not the code that runs — it's the code that scales, survives, and ships value consistently."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" />
-</p>
